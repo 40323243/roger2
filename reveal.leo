@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151104172134.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151108194702.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -313,9 +313,9 @@
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
+<v t="amd.20150915211351.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="amd.20150915211351.12"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -328,8 +328,8 @@
 <v t="leo.20151104172124.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151104172124.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151104172124.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151104172124.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151104172124.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151104172124.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
+<v t="leo.20151104172124.9"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="leo.20151104172124.10"><vh>script</vh></v>
@@ -342,8 +342,8 @@
 <v t="leo.20151108194654.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151108194654.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151108194654.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151108194654.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151108194654.8"><vh>第3張投影片</vh></v>
+<v t="leo.20151108194654.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
+<v t="leo.20151108194654.8"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="leo.20151108194654.9"><vh>script</vh></v>
@@ -356,8 +356,8 @@
 <v t="leo.20160106075922.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160106075922.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160106075922.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160106075922.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160106075922.8"><vh>第3張投影片</vh></v>
+<v t="leo.20160106075922.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
+<v t="leo.20160106075922.8"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="leo.20160106075922.9"><vh>script</vh></v>
@@ -370,8 +370,8 @@
 <v t="leo.20160106075924.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160106075924.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160106075924.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160106075924.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160106075924.8"><vh>第3張投影片</vh></v>
+<v t="leo.20160106075924.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
+<v t="leo.20160106075924.8"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="leo.20160106075924.9"><vh>script</vh></v>
@@ -384,8 +384,8 @@
 <v t="leo.20160106075926.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160106075926.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160106075926.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160106075926.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160106075926.8"><vh>第3張投影片</vh></v>
+<v t="leo.20160106075926.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
+<v t="leo.20160106075926.8"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="leo.20160106075926.9"><vh>script</vh></v>
@@ -398,8 +398,8 @@
 <v t="leo.20160106075927.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160106075927.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160106075927.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160106075927.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160106075927.8"><vh>第3張投影片</vh></v>
+<v t="leo.20160106075927.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
+<v t="leo.20160106075927.8"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="leo.20160106075927.9"><vh>script</vh></v>
@@ -412,8 +412,8 @@
 <v t="leo.20160106075930.4" a="E"><vh>body 標註</vh>
 <v t="leo.20160106075930.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160106075930.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20160106075930.7"><vh>有關我的作業</vh></v>
-<v t="leo.20160106075930.8"><vh>第3張投影片</vh></v>
+<v t="leo.20160106075930.7"><vh>四設計二乙40323243曾彥鈞</vh></v>
+<v t="leo.20160106075930.8"><vh>心得和自評</vh></v>
 </v>
 </v>
 <v t="leo.20160106075930.9"><vh>script</vh></v>
@@ -610,12 +610,6 @@
 <v t="amd.20150915170743.149"><vh>script</vh></v>
 <v t="amd.20150915170743.150"><vh>script</vh></v>
 </v>
-</v>
-</v>
-<v t="leo.20151024185633.2"><vh>Recovered Nodes</vh>
-<v t="leo.20151024185633.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
-<v t="leo.20151024185633.4"><vh>old:html 標註</vh></v>
-<v t="leo.20151024185633.5"><vh>new:html 標註</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2357,57 +2351,6 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151024185633.2"></t>
-<t tx="leo.20151024185633.3">(uncached) amd.20150915211351.1
-Diff...
-  &lt;!doctype html&gt;
-  &lt;html lang="en"&gt;
-  &lt;head&gt;
-  &lt;meta charset="utf-8"&gt;
-  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-  	&lt;!--[if lt IE 9]&gt;
-  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-  	&lt;![endif]--&gt;
-  &lt;/head&gt;
-+ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-+ &lt;/html&gt;
-+ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-  @others
-</t>
-<t tx="leo.20151024185633.4">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
-@others
-</t>
-<t tx="leo.20151024185633.5">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
 <t tx="leo.20151104171838.1">@language xml
 @tabwidth -4
 @others
@@ -2677,7 +2620,7 @@ Diff...
 </t>
 <t tx="leo.20160106075922.8">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;這次作業運用到3D製圖的軟體，因為以前的高職有學過，所以畫起來比較容易，沒有像之前的作業那麼難做，自評分數:75&lt;/p&gt;
+    &lt;p&gt;因為我們這組有分配工作，我被分到的是畫零件1，因為我不太會畫那個軟體，所以同組的幫我挑一個比較容易得讓我畫，畫好的時候會有一種莫名的成就感，而且幫組員貢獻一張圖，自評分數:70&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -2742,7 +2685,7 @@ Diff...
 </t>
 <t tx="leo.20160106075924.8">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;這次作業運用到3D製圖的軟體，因為以前的高職有學過，所以畫起來比較容易，沒有像之前的作業那麼難做，自評分數:75&lt;/p&gt;
+    &lt;p&gt;複製檔案有點大，所以一個一個複製有一點花時間，不過用心一點還是可以複製完的，自評分數:70&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -2807,7 +2750,7 @@ Diff...
 </t>
 <t tx="leo.20160106075926.8">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;這次作業運用到3D製圖的軟體，因為以前的高職有學過，所以畫起來比較容易，沒有像之前的作業那麼難做，自評分數:75&lt;/p&gt;
+    &lt;p&gt;這次作業跟第11週類似，只差在軟體用的是不一樣的，所以花的時間比較少，很快就能上手很快就能完成這次的作業。自評分數:70&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -2872,7 +2815,7 @@ Diff...
 </t>
 <t tx="leo.20160106075927.8">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;這次作業運用到3D製圖的軟體，因為以前的高職有學過，所以畫起來比較容易，沒有像之前的作業那麼難做，自評分數:75&lt;/p&gt;
+    &lt;p&gt;這次作業是將隊上零件圖組成組合圖，這個軟體超作比較麻煩，因為要一直固定，圖很難移動，所以我練了很久才開始作錄影的部分，自評分數:70&lt;/p&gt;
     
 &lt;/section&gt;
 				
@@ -2937,7 +2880,7 @@ Diff...
 </t>
 <t tx="leo.20160106075930.8">&lt;section&gt;
     &lt;h1&gt;心得和自評&lt;/h1&gt;
-    &lt;p&gt;這次作業運用到3D製圖的軟體，因為以前的高職有學過，所以畫起來比較容易，沒有像之前的作業那麼難做，自評分數:75&lt;/p&gt;
+    &lt;p&gt;全部的作業我覺得我期末作得比較認真，因為是畫圖我比較有興趣，雖然畫圖能力不是很好，畫的部分在團體裡是畫比較簡單的，但是我覺得在簡單的圖也是自己一手畫出來的特別有成就感，自評分數:70&lt;/p&gt;
     
 &lt;/section&gt;
 				
